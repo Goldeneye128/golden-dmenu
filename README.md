@@ -1,0 +1,2 @@
+# golden-dmenu
+custom dmenu
